@@ -1,0 +1,91 @@
+.imgTshirt {
+    position: relative;
+}
+
+.memeText {
+    position: absolute;
+    top: 150px;
+    left: 350px;
+}
+
+.memeText img {
+    max-width: 300px;
+    
+}
+
+.memeText p {
+    color: #fff;
+}
+
+.loweText p {
+    margin-top: 10px;
+}
+
+.tshirt-color {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.tshirt-color img {
+    width: 15%;
+    height: 100%;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 321px)
+{
+    .imgTshirt img {
+        position: relative;
+        width: 200px;
+    }
+    .memeText {
+        position: absolute;
+        top: 5px;
+        left: 45px;
+    }
+    
+    .memeText img {
+        max-width: 100px;
+        
+    }
+    .memeText p {
+        color: #fff;
+        font-size: 12px;
+    }
+    
+    .loweText p {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+   
+
+}
+@media only screen and (max-width: 375px)
+{
+    .imgTshirt img {
+        position: relative;
+        width: 200px;
+    }
+    .memeText {
+        position: absolute;
+        top: 5px;
+        left: 45px;
+    }
+    
+    .memeText img {
+        max-width: 100px;
+        
+    }
+    .memeText p {
+        color: #fff;
+        font-size: 12px;
+    }
+    
+    .lowerText p {
+        margin-top: 10px;
+        font-size: 6px;
+    }
+    
+}
