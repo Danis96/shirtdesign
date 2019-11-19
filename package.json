@@ -2,6 +2,7 @@
   "name": "designshirts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Danis96.github.io/shirtdesign",
   "dependencies": {
     "firebase": "^7.4.0",
     "react": "^16.12.0",
@@ -14,6 +15,7 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
