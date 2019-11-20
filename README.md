@@ -71,7 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 App before you log in. I managed the routes so you won't be getting anything until you login. You can login with Google.
 ![afterlogin](https://user-images.githubusercontent.com/49531974/69218166-71b2b000-0b70-11ea-94df-bd37bdb31406.png)
 After you login, app recognize your name and display it, sending you regards, and give you a cool quote of the day.
-Then you can go to dashboard and sdesign your own shit.
+Then you can go to dashboard and design your own shit.
 ![dashboard](https://user-images.githubusercontent.com/49531974/69218168-74150a00-0b70-11ea-984e-e15a3fc92421.png)
 ![mobbefore](https://user-images.githubusercontent.com/49531974/69218175-770ffa80-0b70-11ea-84f7-d8fefcbac6d0.png)
 ![mobafter](https://user-images.githubusercontent.com/49531974/69218180-78d9be00-0b70-11ea-9b9f-bc7957910442.png)
