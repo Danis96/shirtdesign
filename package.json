@@ -5,6 +5,7 @@
   "homepage": "https://Danis96.github.io/shirtdesign",
   "dependencies": {
     "firebase": "^7.4.0",
+    "heroku": "^7.35.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-redux": "^7.1.3",
